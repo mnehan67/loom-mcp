@@ -4,7 +4,7 @@
 
 > The universal context compiler for AI coding agents. **97.75% token reduction**, GPU embeddings, compact wire format. Free forever — no enterprise license required.
 
-**[🌐 Live Website](https://muhnehh.github.io/loom-mcp/)** · **[📦 npm](https://www.npmjs.com/package/@loom-mcp/server)** · **[⭐ GitHub](https://github.com/muhnehh/loom-mcp)**
+**[🌐 Live Website](https://mnehan67.github.io/loom-mcp/)** · **[📦 npm](https://www.npmjs.com/package/@loom-mcp/server)** · **[⭐ GitHub](https://github.com/mnehan67/loom-mcp)**
 
 ---
 
